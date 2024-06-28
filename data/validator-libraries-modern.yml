@@ -279,6 +279,15 @@
       draft: []
       license: MIT
       last-updated: "2023-03-28"
+- name: Julia:
+  implementations: 
+    -name: JSONSchema.jl
+      url: https://github.com/fredo-dedup/JSONSchema.jl
+      notes: JSON Schema implementation in Julia
+      date-draft: []
+      draft: [7, 6, 4]
+      license: MIT
+      last-updated: "2024-06-28"
 - name: Kotlin
   implementations:
     - name: Medeia-validator
